@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+
+	<body style="margin-left:160px; margin-right:160px ; background-color: antiquewhite;">
+		<div style="text-align: center;">
+            <h1>Hi there!</h1>
+            <img src="https://images.icon-icons.com/3135/PNG/512/peep_human_person_icon_192411.png" class="center" style="height:300px; margin-bottom:-48px; margin-top:-48px ;">
+            <h1>I'm Kathryn Leigh</h1>
+        </div>
+        
+        <p style="margin-left: auto; margin-right: auto; text-align: left; border-top: 4px solid black; padding-top:16px ; border-bottom: 4px solid black; padding-bottom: 16px;">I'm a 25-year old, passionate, life-long learner that loves turning complex problems into clear, creative solutions. I'm based in Cagayan De Oro City, but my work—and my curiosity—know no boundaries.</p>
+
+        <h3 style="font-size: large;">When I'm not creating, I'm probably:</h3>
+
+        <div style="display: flex; justify-content: center; align-items: center; padding: 6px;">
+            <div style="border: 1px solid black; border-radius: 8px; padding: 16px; width: 300px; font-family: sans-serif; background-color: white;">
+                <img src="001-books-stack-of-three.png" style="display: block; margin: 0 auto 12px auto; border-radius: 4px;">
+                <div style="text-align: center;">
+                    <h4 style="margin: 0 0 8px; color: black;">Lost in a book</h4>
+                    <p style="margin: 0; color: black; font-size: 14px;">I'm an avid reader and always have something to read, may it be novels, manga, or articles.</p>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: center; align-items: center; padding: 6px;">
+            <div style="border: 1px solid black; border-radius: 8px; padding: 16px; width: 300px; font-family: sans-serif; background-color: white;">
+                <img src="002-bicycle.png" style="display: block; margin: 0 auto 12px auto; border-radius: 4px;">
+                <div style="text-align: center;">
+                    <h4 style="margin: 0 0 8px; color: black;">On two wheels</h4>
+                    <p style="margin: 0; color: black; font-size: 14px;">Nothing clears my head like a long bike ride, whether I'm conquering a new trail or just climbing and cruising through the mountains.</p>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: center; align-items: center; padding: 6px;">
+            <div style="border: 1px solid black; border-radius: 8px; padding: 16px; width: 300px; font-family: sans-serif; background-color: white;">
+                <img src="003-karate.png" style="display: block; margin: 0 auto 12px auto; border-radius: 4px;">
+                <div style="text-align: center;">
+                    <h4 style="margin: 0 0 8px; color: black;">Kicking it up a notch</h4>
+                    <p style="margin: 0; color: black; font-size: 14px;"> I've been practicing Taekwondo for years and love the discipline, focus, and—let's be real—the satisfying sound of a well-executed kick.</p>
+                </div>
+            </div>
+        </div>
+
+        <div style="display: flex; justify-content: center; align-items: center; padding: 6px;">
+            <div style="border: 1px solid black; border-radius: 8px; padding: 16px; width: 300px; font-family: sans-serif; background-color: white;">
+                <img src="004-map.png" style="display: block; margin: 0 auto 12px auto; border-radius: 4px;">
+                <div style="text-align: center;">
+                    <h4 style="margin: 0 0 8px; color: black;">Searching for my next adventure</h4>
+                    <p style="margin: 0; color: black; font-size: 14px;">From climbing mountains to exploring a new corner of the city, I thrive on a good challenge and an even better view.</p>
+                </div>
+            </div>
+        </div>
+
+	</body>
+</html>
